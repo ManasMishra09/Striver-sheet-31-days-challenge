@@ -5,3 +5,4 @@ p1--->Set Matrix zeroes
 p2--->Pascal triangle
 p3--->Next permutation
 p4--->Max subarray sum(Kadane algos)
+p5--->sort colors
