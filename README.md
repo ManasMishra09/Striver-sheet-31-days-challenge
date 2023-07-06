@@ -8,3 +8,4 @@ p4--->Max subarray sum(Kadane algos)
 p5--->sort colors
 p6--->Buy and sell stock II
 p7--->Rotate matrix by 90 deg.
+p8--->Overlappin intervals
