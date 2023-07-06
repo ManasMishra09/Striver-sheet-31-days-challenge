@@ -1,4 +1,4 @@
-# Striver-sheet-31-days-challenge
+# Striver-sheet-31-days-challenge==191 problems
 #The problems are solved according to the striver sheet
 #:-
 p1--->Set Matrix zeroes
