@@ -9,7 +9,8 @@ p5--->sort colors
 p6--->Buy and sell stock II
 p7--->Rotate matrix by 90 deg.
 p8--->Overlappin intervals
-p9--->merge sorted array without extra space
-p10-->duplicate number
-p11-->search in a 2D matrix(binary search)
-p12-->Majority element >N/2
+p10--->merge sorted array without extra space
+p11-->duplicate number
+p12-->search in a 2D matrix(binary search)
+p13-->Majority element >N/2
+p14-->Majority element > N/3
