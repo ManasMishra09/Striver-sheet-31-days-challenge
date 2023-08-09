@@ -3,7 +3,7 @@
 // Here's how the code works:
 
 // It initializes a variable "colm" to 1, which will be used to track if the first column of the matrix needs to be set to zero later.
-
+kgbkdsb
 // It retrieves the number of rows and columns in the matrix using the "size" function on the matrix vector.
 
 // The code then iterates over each element in the matrix, starting from the top-left corner (index 0,0). For each element, it checks if it's zero:
